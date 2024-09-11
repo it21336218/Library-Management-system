@@ -11,7 +11,7 @@ clone the repo
 change current directory
 
 ```
-cd Laravel-libraray-management-system
+cd libraray-management-system
 ```
 
 install dependencies
