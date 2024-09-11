@@ -5,7 +5,7 @@
 clone the repo
 
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+    git clone https://github.com/it21336218/Pixzarloop.git
 ```
 
 change current directory
