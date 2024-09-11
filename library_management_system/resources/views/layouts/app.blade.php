@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="offset-md-4 col-md-4">
                     <div class="logo">
-                        <a href="#"><img src="{{ asset('images/library.png') }}"></a>
+                        <a href="#"><img src="{{ asset('images/book.png') }}"></a>
                     </div>
                 </div>
                 <div class="offset-md-2 col-md-2">
